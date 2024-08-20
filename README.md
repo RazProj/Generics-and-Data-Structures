@@ -14,4 +14,4 @@ The key components of this project include a generic linked list implementation,
 ### How to Run the Program
 * Ensure that you have the Java Development Kit (JDK 8 or higher) installed on your system.
 * Open the command line and navigate to the directory containing the program files.
-* Run the program using the provided run.bat script, or by typing the following command:
+* Run the program using the provided run.bat script, or by typing the following command:`java Main`.
